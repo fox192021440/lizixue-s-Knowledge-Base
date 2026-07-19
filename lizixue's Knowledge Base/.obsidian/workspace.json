@@ -11,13 +11,17 @@
             "id": "46a9d0b459007d7d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "20260705145200 机构案例.base",
-                "viewName": "表格"
+                "file": "README.canvas",
+                "viewState": {
+                  "x": 612.4548921663434,
+                  "y": 555.7700924054102,
+                  "zoom": -0.8664544686709448
+                }
               },
-              "icon": "lucide-table",
-              "title": "20260705145200 机构案例"
+              "icon": "lucide-layout-dashboard",
+              "title": "README"
             }
           }
         ]
@@ -173,7 +177,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "flowershow:Publish with Flowershow": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -181,22 +184,24 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
+      "zk-prefixer:创建时间戳笔记": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "flowershow:Publish with Flowershow": false
     }
   },
   "active": "46a9d0b459007d7d",
   "lastOpenFiles": [
+    "202607050648 热处理.md",
+    "202607041854 气缸.md",
+    "README.canvas",
+    "20260705145200 机构案例.base",
     "202607041620 步进电机.md",
     "202606201847 工装快换方式.md",
     "202606201715 单轴变位组件.md",
     "202606191743 压头.md",
-    "20260729-152800 设计经验.canvas",
-    "20260705145200 机构案例.base",
     "20260705145300 标准件选型.base",
     "20260705145400 加工工艺.base",
     "20260711-01 股票.base",
-    "202607041854 气缸.md",
     "202607041852 联轴器.md",
     "202607041653 伺服电机.md",
     "202607111353 为什么我劝新手千万别碰左侧交易.md",
@@ -210,7 +215,6 @@
     "202607051505 转台上料.md",
     "202607051504 夹爪上料.md",
     "202607051530 快速定位.md",
-    "202607050648 热处理.md",
     "202607050645 通用电机.md",
     "20260705-161301.png",
     "20260705-160630.png",

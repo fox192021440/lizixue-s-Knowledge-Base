@@ -76,6 +76,51 @@
 			"width":260,
 			"height":100,
 			"color":"4"
+		},
+		{
+			"id":"89214880307be71d",
+			"type":"text",
+			"text":"尺寸适应强度",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-100,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"67ffbc55b79f8f65",
+			"type":"text",
+			"text":"美观",
+			"styleAttributes":{},
+			"x":-120,
+			"y":160,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"fedce342e96ce809","type":"file","file":"20260705145200 机构案例.base","x":1060,"y":-160,"width":700,"height":400},
+		{"id":"f6ee8168b3694a15","type":"file","file":"20260705145300 标准件选型.base","x":1060,"y":340,"width":700,"height":400},
+		{"id":"bc589c89e829ce5b","type":"file","file":"20260705145400 加工工艺.base","x":1060,"y":840,"width":700,"height":400},
+		{
+			"id":"cdd910f2b2c826a4",
+			"type":"text",
+			"text":"丝杆长度如何选择？",
+			"styleAttributes":{},
+			"x":500,
+			"y":310,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2bdd27b7a1873bbd",
+			"type":"text",
+			"text":"同步轮、轴、轴承如何搭配？",
+			"styleAttributes":{},
+			"x":500,
+			"y":430,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -102,7 +147,7 @@
 		},
 		{
 			"id":"d4b4e7689f56fadf",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"20074d7aa99a9ebe",
@@ -113,8 +158,9 @@
 		},
 		{
 			"id":"0d7b0eeb54bc3c3f",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"b1e80f0938c761d5",
 			"fromSide":"right",
 			"toNode":"dd7098211f8b20fc",
@@ -123,7 +169,7 @@
 		},
 		{
 			"id":"2b27be83d7764b55",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"b1e80f0938c761d5",
@@ -134,13 +180,35 @@
 		},
 		{
 			"id":"ea21a1e090ec9025",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"20074d7aa99a9ebe",
 			"fromSide":"top",
 			"toNode":"7435796b57787389",
 			"toSide":"bottom",
 			"color":"1"
+		},
+		{
+			"id":"391b8894761510b7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6c9cefef8214dbdc",
+			"fromSide":"left",
+			"toNode":"89214880307be71d",
+			"toSide":"right",
+			"color":"6"
+		},
+		{
+			"id":"eae225bcc166daff",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6c9cefef8214dbdc",
+			"fromSide":"bottom",
+			"toNode":"67ffbc55b79f8f65",
+			"toSide":"top",
+			"color":"6"
 		}
 	],
 	"metadata":{
