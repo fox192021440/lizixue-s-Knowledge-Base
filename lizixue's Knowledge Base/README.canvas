@@ -101,27 +101,7 @@
 		},
 		{"id":"fedce342e96ce809","type":"file","file":"20260705145200 机构案例.base","x":1060,"y":-160,"width":700,"height":400},
 		{"id":"f6ee8168b3694a15","type":"file","file":"20260705145300 标准件选型.base","x":1060,"y":340,"width":700,"height":400},
-		{"id":"bc589c89e829ce5b","type":"file","file":"20260705145400 加工工艺.base","x":1060,"y":840,"width":700,"height":400},
-		{
-			"id":"cdd910f2b2c826a4",
-			"type":"text",
-			"text":"丝杆长度如何选择？",
-			"styleAttributes":{},
-			"x":500,
-			"y":310,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2bdd27b7a1873bbd",
-			"type":"text",
-			"text":"同步轮、轴、轴承如何搭配？",
-			"styleAttributes":{},
-			"x":500,
-			"y":430,
-			"width":260,
-			"height":60
-		}
+		{"id":"bc589c89e829ce5b","type":"file","file":"20260705145400 加工工艺.base","x":1060,"y":840,"width":700,"height":400}
 	],
 	"edges":[
 		{
