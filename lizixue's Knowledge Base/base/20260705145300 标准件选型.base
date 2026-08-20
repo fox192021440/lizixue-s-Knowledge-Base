@@ -3,10 +3,11 @@ views:
     name: 表格
     filters:
       and:
-        - file.hasTag("加工工艺")
+        - file.hasTag("选型")
     order:
       - file.name
       - file.ctime
       - file.backlinks
     columnSize:
-      file.name: 301
+      file.name: 193
+      file.ctime: 158
